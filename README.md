@@ -5,9 +5,9 @@ All The Api's And Pages were added according to assignment
 CRUD Operations is availbale in the code on mongoDb Atlas
 
 To run the application on docker , 
-1. Clone this repository
-2. enter in application folder
-3. run command < docker compose up >
+1. Clone this repository =>  git clone https://github.com/ravijaat2917/Sylvr-Docker-Compose-Assignment.git
+2. enter in application folder => cd Sylvr-Docker-Compose-Assignment/
+3. run command  => < docker compose up > 
 4. go to localhost 3000 to the react application.
 
 
